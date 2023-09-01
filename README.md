@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @lamng1992
 - 👀 I’m interested in travelling and hiking
 - 🌱 I’m currently learning Web Development with HTML,CSS,Javascript and React
-- 💞️ Working on the web is my passion and I’m looking to collaborate on exciting projects
 - 📫 Please reach me at my email: nguyenlg.1012@gmail.com
 
 <!---
